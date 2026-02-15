@@ -71,7 +71,7 @@ Embedded Systems | Firmware Development | MCU Software
 
 ## Development Context
 
-This firmware projects were developed at the **IoT Innovation Lab**,  
+This firmware project was developed at the **IoT Innovation Lab**,  
 Department of Electronics and Communication Engineering,  
 **Chitkara University**.
 
@@ -88,6 +88,4 @@ I would like to express my sincere gratitude to:
 - **Dr. Amarjeet Kaur**
 - **Mr. Rakesh Kumar**
 
-for their guidance, mentorship, and support throughout the development
-of these projects.
-
+for their guidance, mentorship, and 
