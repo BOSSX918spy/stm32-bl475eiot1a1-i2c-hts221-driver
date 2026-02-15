@@ -66,3 +66,28 @@ This layered structure mirrors industry-standard embedded firmware design.
 ## Author
 **Gurnoor Singh**  
 Embedded Systems | Firmware Development | MCU Software
+
+---
+
+## Development Context
+
+This firmware projects were developed at the **IoT Innovation Lab**,  
+Department of Electronics and Communication Engineering,  
+**Chitkara University**.
+
+The work was completed as part of hands-on embedded systems learning
+and practical experimentation on real hardware platforms.
+
+---
+
+## Acknowledgements
+
+I would like to express my sincere gratitude to:
+
+- **Dr. Amit Kumar**
+- **Dr. Amarjeet Kaur**
+- **Mr. Rakesh Kumar**
+
+for their guidance, mentorship, and support throughout the development
+of these projects.
+
